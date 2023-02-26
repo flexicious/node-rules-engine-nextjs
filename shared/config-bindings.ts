@@ -1,0 +1,12 @@
+export const CONFIG = {
+    RULE_SETS: {
+        HOME_PAGE_PERSONALIZATION: "HOME_PAGE_PERSONALIZATION",
+        NEXT_GEN_FEATURE: "NEXT_GEN_FEATURE",
+    },
+    LAMBDA_CONFIGS: {
+        GET_PRODUCTS: {
+            SLOT_NAMES: "SLOT_NAMES",
+            FEATURED_PRODUCTS: "FEATURED_PRODUCTS",
+        },
+    },
+};
